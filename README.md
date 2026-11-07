@@ -81,6 +81,3 @@ Starter ini sudah memuat login, dashboard, data penyumbang, transaksi bulanan, p
 ## Skema transaksi
 
 Satu baris per kombinasi `donorId + year + month`. Jika periode yang sama disimpan lagi, nominal lama diperbarui, bukan dibuat baris ganda. Rekap per bulan dibentuk oleh frontend dari tabel transaksi.
-# nucare
-# nucare
-# nucare
